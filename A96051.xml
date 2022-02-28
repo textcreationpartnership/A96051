@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Warwicks letter to the Right Honorable, the Committee of Lords and Commons at Derby-House, containing a narrative of his proceedings in pursuit of the revolted ships, and their declining the engagement: and of the conjunction of the Portsmouth fleet with the Lord Admirals. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96051</idno>
+            <idno type="STC">Wing W1007</idno>
+            <idno type="STC">Thomason E462_15</idno>
+            <idno type="STC">ESTC R204170</idno>
+            <idno type="EEBO-CITATION">99863853</idno>
+            <idno type="PROQUEST">99863853</idno>
+            <idno type="VID">162195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162195)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Warwicks letter to the Right Honorable, the Committee of Lords and Commons at Derby-House, containing a narrative of his proceedings in pursuit of the revolted ships, and their declining the engagement: and of the conjunction of the Portsmouth fleet with the Lord Admirals. Ordered by the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 6. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162195:1" rendition="simple:additions"/>
+            <p>The Earl of <hi>Warwicks</hi> LETTER To the Right Honorable, The Committee of Lords and Commons AT <hi>DERBY-HO<g ref="char:V">Ʋ</g>SE,</hi> CONTAINING A NARRATIVE OF His Proceedings in Purſuit of the Revolted Ships, And their declining the Engagement: And of the Conjunction of the <hi>PORTSMO<g ref="char:V">Ʋ</g>TH</hi> Fleet with the Lord Admirals.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Letter be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>Septemb.</hi> 6. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162195:2"/>
+            <pb n="3" facs="tcp:162195:2"/>
+            <head>To the Right Honorable, The Committee of Lords and Commons at <hi>Derby-houſe.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>BY my Letter of Thurſday laſt I gave your Lord<g ref="char:EOLhyphen"/>ſhips a brief account of our condition.</p>
+            <p>I ſhall take leave now to trouble your Lord<g ref="char:EOLhyphen"/>ſhips with a more particular repreſentation of our proceedings.</p>
+            <p>On Tueſday morning 29 <hi>Auguſt,</hi> the Fleet with me proceeded down as low as the Shooe, where the Tide of Flood coming in, we anchored.</p>
+            <p>In the Forenoon of the ſame day we diſcovered a great Fleet of Ships coming up into the River; and by a ſignal from the Adventure Frigot (ſent out the 28 for advice) we found them to be the Revolted Ships: at their co<g ref="char:EOLhyphen"/>ming nearer we ſaw their three Flags, and made them to be (ſmall and great) at leaſt twenty in number.</p>
+            <p>We had by this time a very great experiment of the Mariners affection, thoſe aboard my Ship applying them<g ref="char:EOLhyphen"/>ſelves to a preparation for fight with the greateſt alacrity that ever I ſaw, there being not one of them that diſco<g ref="char:EOLhyphen"/>vered the leaſt averſneſs to engage, or unwillingneſs to lay down his life for the Enemies reduction; which (as the Captians informed me) was likewiſe the general tem<g ref="char:EOLhyphen"/>per of the reſt of the Fleet: And truly the ſpecial influ<g ref="char:EOLhyphen"/>ence of God upon their Spirits was viſible to admiration, and (which I value as no ſmall Priviledge and Honor to this undertaking) their eyes, hearts and prayers were ſo advanced to Heaven (as the place onely from whence they expected their help) that it was a great engagement
+<pb n="4" facs="tcp:162195:3"/>to our faith, that God would manifeſt and engage his ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cial preſence and power amongſt us and for us, in the iſſue of this Service.</p>
+            <p>The place where we that day anchored was full of Sands, and the Channel narrow; therefore about Noon we began to ply up towards the Buoy of the Oze-Edge, endeavoring to keep the advantage that God had given us, of being to the windward of the Enemy. That night we anchoring off the Buoy of the Oze-Edge, and the Enemy at about a League diſtance from us, the Prince ſent me a Summons by Mr. <hi>Henry Seymour</hi> about eight of the clock, which I received, and anſwered, as I gave ac<g ref="char:EOLhyphen"/>count in my laſt to your Lordſhips; wherein, of the Sum<g ref="char:EOLhyphen"/>mons, and of my Anſwer, I incloſed a Copy.</p>
+            <p>The ſame Tueſday night I conſulted with a Councel of War, where we determined how to manage the next days action; the ſum of our Reſolution being, That eve<g ref="char:EOLhyphen"/>ry Ship ſhould weigh, and be looſe at the windward tide, and get and keep the wind of the Enemy if poſſible, and aſſiſt each other to the beſt advantage, if engaged; but not on that day to begin the Engagement on our part, we being every hour in expectation of the <hi>Portſmouth</hi> Ships, and the Channel where Gods Providence had caſt us being ſo narrow, that in caſe of Engagement ſome of the Ships would have been neceſſarily forced upon the Sands, and ſo deſtroyed (which inconvenience we conſidered might be prevented by the <hi>Portſmouth</hi> Ships falling upon the Rere, while we fell upon the Van of the Enemies Fleet) yet withal to keep our ground about the Oze-Edge, being a place of more advantage then many others thereabouts.</p>
+            <p>That night and the next day, <hi>viz.</hi> the 30 of <hi>Aug.</hi> till about Noon, all was quiet (the Mariners retaining their former Spirit of Courage, Unanimity and Reſolution)
+<pb n="5" facs="tcp:162195:3"/>and then the Tide of flood coming on, the Enemy weigh<g ref="char:EOLhyphen"/>ed; I alſo weighed with the Fleet under my Command, which plying up and down ſome hours according to the Reſolutions of the Councel of War, maintained the ad<g ref="char:EOLhyphen"/>vantage of being to the windward of the Enemy, and ex<g ref="char:EOLhyphen"/>pected, without ſcruple, a ſudden Engagement, the wea<g ref="char:EOLhyphen"/>ther alſo being fair, and a Calm expected rather then o<g ref="char:EOLhyphen"/>therwiſe: But about four in the Afternoon there fell ſo great a Gale of wind (amounting to no leſs then a Storm) that the Admiral of the Revolted Ships, with his whole Fleet, was forced to come to anchor, and ſo were we, there being no action the remainder of that Afternoon, nor the night following, during which the Admirals of the two Fleets rode about a League each from other.</p>
+            <p>That day I ſent forth a Veſſel to enquire after the <hi>Portſmouth</hi> Fleet.</p>
+            <p>On Thurſday morning 31 <hi>Aug.</hi> I called a Coun<g ref="char:EOLhyphen"/>cel of War; and then it was again conſidered, That the <hi>Portſmouth</hi> Fleet was not yet come in, nor heard of; That ſome Ships of this Fleet (ſpecially the great ones) would in all probability be forced on the Sands, if we ſhould here engage; which would alſo produce the like effect as to ſome of the Revolted Ships, whereby the ſtrength of the Navy would be much impaired; That a few hours expectance might bring in the <hi>Portſmouth</hi> Fleet, whereby we might not onely proportion the Enemies ſtrength, but alſo by Gods bleſſing diſable their return: We con<g ref="char:EOLhyphen"/>ſidered withal, That on the miſcarriage of this Fleet depended the miſcarriage of the <hi>Portſmouth</hi> Fleet, and the putting of very high advantages into the Enemies hand, further to prejudice the Trade of the Kingdom, and to make their ſtrength at ſea much more conſiderable: Upon which, and ſome other grounds then offered, it was (amongſt other things) unanimouſly Reſolved upon the
+<pb n="6" facs="tcp:162195:4"/>Queſtion by my ſelf, the Commiſſioners of Parliament, and the reſt of the Councel of War (conſiſting of twelve in number) not one voyce contradicting it, That the Ships of this Fleet ſhould obſerve the Enemies motion, and if he ply up, then to ply up before him, keeping as much as might be to the windward, and declining at pre<g ref="char:EOLhyphen"/>ſent an Engagement, unleſs it ſhould be unavoidable; and that in caſe the Enemy ſhould weigh, and fall down<g ref="char:EOLhyphen"/>wards, this Fleet ſhould follow them, yet at ſuch a di<g ref="char:EOLhyphen"/>ſtance, that there might be room enough with conveni<g ref="char:EOLhyphen"/>ency to anchor, and to ſuccour the <hi>Portſmouth</hi> Fleet, in caſe they ſhould be in ſight; and ſo we prepared our ſelves, in expectation of an Engagement that Afternoon.</p>
+            <p>But by the time that theſe and ſome other Reſolutions of the Councel of War were digeſted, and ready to be ſigned, the Viceadmiral of the Revolted Ships did, about ten in the Forenoon, weigh, and ſhortly after ſo did the reſt; and forthwith their whole Fleet ſtow'd away: I did thereupon give order to the Fleet with me to weigh; and as ſoon as my Letter to your Lordſhips of that day was diſpatcht, we gave them chaſe, ſome of our Ships keep<g ref="char:EOLhyphen"/>ing at a ſmall diſtance: Of which, the Adventure Fri<g ref="char:EOLhyphen"/>got eſpying a Fleet a head of the Enemy, ſhot a Gun, in to<g ref="char:EOLhyphen"/>ken they were the <hi>Portſmouth</hi> Ships: Whereupon I made all the Sail I could, to the end this Fleets conjunction with the <hi>Portſmouth</hi> Ships might be improved to the more effectual engaging of the enemy, though the Fleet ſuppoſed by Captain <hi>Ball</hi> to be from <hi>Portſmouth,</hi> proved other Ships.</p>
+            <p>Afterwards night being come, and the Pilot conceiving it dangerous further to proceed ſo near the Sands, I an<g ref="char:EOLhyphen"/>chored near the middle of the Gunfleet, about a League and a half ſhort of the enemy (who by ſhooting off a Gun, and haling up their Sails, gave cauſe of confi<g ref="char:EOLhyphen"/>dence
+<pb n="7" facs="tcp:162195:4"/>that they were alſo coming to anchor) purpoſing to weigh early next morning to purſue them, and ap<g ref="char:EOLhyphen"/>pointing ſome Ships of this Fleet to lie near to obſerve their motion.</p>
+            <p>The next morning the firſt of <hi>Septemb.</hi> we found that the Revolters had withdrawn themſelves in the night<g ref="char:punc">▪</g> and about ſix of the clock we diſcovered the <hi>Portſmouth</hi> Ships (conceived to be thoſe, by the many Guns that paſſed by way of ſalute (as was interpreted) betwixt them and ſome of this Fleet that went up to them) where<g ref="char:EOLhyphen"/>upon I gave order to weigh, but the wind grew ſo high, that the Pilot delivered his opinion, This Ship would not in ſuch weather be able to ſail, without danger of ſiding upon Gunfleet Sands; whereupon we remained there at anchor all that day, the wind continuing to night very high.</p>
+            <p>This day being the ſecond of <hi>September,</hi> we weighed from the middle of Gunfleet, and about ten in the Fore<g ref="char:EOLhyphen"/>noon met with all the <hi>Portſmouth</hi> Fleet (other then ſome of the ſmaller Veſſels that retired into <hi>Harwich</hi> for ſhel<g ref="char:EOLhyphen"/>ter againſt the yeſterdays Storm) and ſo we proceeded together to <hi>Albrough</hi> Rode, to enquire after the Revolt<g ref="char:EOLhyphen"/>ed Fleet; where anchoring, I ſpoke with the Captains that came from <hi>Portſmouth,</hi> who repreſent their ſeveral Companies to be as cordial and reſolute for the enemies reduction as could be deſired.</p>
+            <p>Since my coming hither, I have endeavored to in<g ref="char:EOLhyphen"/>form my ſelf which way the Revolters are gone, and finde it moſt probable that they are retired to <hi>Goree,</hi> there being not the leaſt intimation in theſe parts, that they are gone Northwards: Therefore I ſhall (God willing) repair to morrow morning towards the Downs, where I ſhall expect your Lordſhips further Commands; in<g ref="char:EOLhyphen"/>tending in the mean time to ſend an Expreſs to <hi>Holland,</hi>
+               <pb n="8" facs="tcp:162195:5"/>for a certain account whether the Ships are in <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rce,</hi> that I may be in a quicker capacity to put in execution ſuch Orders as ſhall be given me in charge concerning them. I ſhall adde no more, but to commend it to your Lord<g ref="char:EOLhyphen"/>ſhips conſideration, whether it may not be neceſſary, That the Order be renewed for indempnity to the Re<g ref="char:EOLhyphen"/>volters, upon their ſubmiſſion to the Parliaments Obe<g ref="char:EOLhyphen"/>dience, and to reſt,</p>
+            <closer>
+               <signed>Your Lordſhips, &amp;c. affectionate and humble Servant, WARWICK.</signed> 
+               <dateline>Aboard the <hi>St. George</hi> in Albrough Rode,
+<date>2. Sept. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I have written to Colonel <hi>Temple</hi> to take off the reſtraint of Ships paſſage by <hi>Tilbury Fort,</hi> Any Order or Deſire from me notwithſtanding.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
